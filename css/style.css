@@ -4612,7 +4612,7 @@ body.custom-background {
 }
 
 .copypress-custom-bg-8 {
-	 background-image: url(http://placehold.it/1920x748);
+	 background-image: url(../images/backdrop.jpg);
 	 background-position: center center;
 	 background-size: cover;
  }
