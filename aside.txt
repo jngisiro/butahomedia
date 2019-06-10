@@ -1,0 +1,114 @@
+<div class="sidebar right widget_area scheme_side">
+                            <div class="sidebar_inner">
+                                <!-- Widget: Categories -->
+                                <aside class="widget widget_categories">
+                                    <h5 class="widget_title">Categories</h5>
+                                    <ul>
+                                        <li>
+                                            <a href="#">Labels</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Shirts</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Notepads </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Booklets  </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Business Cards  </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Gift Bags </a>
+                                        </li>
+                                    </ul>
+                                </aside><!-- /Widget: Categories --><!-- Widget: Calendar --><aside class="widget widget_calendar">
+                                <h5 class="widget_title">Calendar</h5>
+                                <div id="calendar_wrap" class="calendar_wrap">
+                                    <table id="tpl-calendar">
+                                        <caption>March 2019</caption>
+                                        <thead>
+                                        <tr>
+                                            <th scope="col" title="Monday">M</th>
+                                            <th scope="col" title="Tuesday">T</th>
+                                            <th scope="col" title="Wednesday">W</th>
+                                            <th scope="col" title="Thursday">T</th>
+                                            <th scope="col" title="Friday">F</th>
+                                            <th scope="col" title="Saturday">S</th>
+                                            <th scope="col" title="Sunday">S</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td colspan="2" class="pad">&nbsp;</td>
+                                            <td>1</td>
+                                            <td>2</td>
+                                            <td>3</td>
+                                            <td>4</td>
+                                            <td>5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>7</td>
+                                            <td>8</td>
+                                            <td>9</td>
+                                            <td>10</td>
+                                            <td>11</td>
+                                            <td>12</td>
+                                        </tr>
+                                        <tr>
+                                            <td>13</td>
+                                            <td>14</td>
+                                            <td>15</td>
+                                            <td>16</td>
+                                            <td>17</td>
+                                            <td>18</td>
+                                            <td>19</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="today">09</td>
+                                            <td>21</td>
+                                            <td>22</td>
+                                            <td>23</td>
+                                            <td>24</td>
+                                            <td>25</td>
+                                            <td>26</td>
+                                        </tr>
+                                        <tr>
+                                            <td>27</td>
+                                            <td>28</td>
+                                            <td>29</td>
+                                            <td>30</td>
+                                            <td>31</td>
+                                            <td class="pad" colspan="2">&nbsp;</td>
+                                        </tr>
+                                        </tbody>
+                                        <tfoot>
+                                        <tr>
+                                            <td colspan="3" id="prev">
+                                                <a href="#">&laquo; Feb</a>
+                                            </td>
+                                            <td class="pad">&nbsp;</td>
+                                            <td colspan="3" id="next">
+                                                <a href="#">Apr &raquo;</a>
+                                            </td>
+                                        </tr>
+                                        </tfoot>
+                                    </table>
+                                </div>
+                            </aside><!-- /Widget: Calendar --><!-- Widget: Tag Cloud --><aside class="widget widget_tag_cloud">
+                                <h5 class="widget_title">Tags</h5>
+                                <div class="tagcloud">
+                                    <a href="#" title="8 topics">booklets</a>
+                                    <a href="#" title="5 topics">branding</a>
+                                    <a href="#" title="5 topics">business</a>
+                                    <a href="#" title="8 topics">business cards</a>
+                                    <a href="#" title="8 topics">magazines</a>
+                                    <a href="#" title="8 topics">posters</a>
+                                    <a href="#" title="9 topics">barners</a>
+                                    <a href="#" title="9 topics">t- shirts</a>
+                                </div>
+                            </aside><!-- /Widget: Tag Cloud -->
+                            </div>
+                        </div>
